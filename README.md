@@ -6,3 +6,4 @@
 5. git log
 6. git commit --amend
 7. git checkout -b new-branch 
+8. git checkout master
